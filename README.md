@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Adrijun
-- 👀 I’m interested in
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jonas
+- 🌱 I’m currently learning Front-end development
+
 
 <!---
 Adrijun/Adrijun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
