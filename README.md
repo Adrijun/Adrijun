@@ -1,5 +1,8 @@
 - 👋 Hi, I’m Jonas
-- 🌱 I’m currently learning Front-end development
+- I am a Frontend developer with a strong interest in Frontend development and Design.
+- I love to explore new technologies and build exciting projects.
+
+- Here is my portfolio with my projects: https://my-site-adrijun.vercel.app/
 
 
 <!---
